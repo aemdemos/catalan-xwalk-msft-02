@@ -89,43 +89,28 @@
             "customBlockName": ""
           },
           {
-            "id": "box-id-832552540",
-            "x": 778,
-            "y": 924,
-            "width": 1320,
-            "height": 40,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
-            "layout": {
-              "numCols": 0,
-              "numRows": 0
-            },
-            "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "defaultContent",
-            "customBlockName": ""
-          },
-          {
-            "id": "box-id-832552571",
+            "id": "box-id-580046748",
             "x": 770,
-            "y": 964,
+            "y": 924,
             "width": 1336,
-            "height": 678,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+            "height": 718,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]",
             "layout": {
-              "numCols": 2,
-              "numRows": 1
+              "numCols": 1,
+              "numRows": 2
             },
             "childrenXpaths": [
               {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
-                "xpathWithDetails": "id(\"accordion-container-accordion-oc787b\")"
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"Features\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"tabs-pill-bar tabs\"]/div[@class=\"cmp-tabs d-contents\"]/div[@class=\"row\"]"
               },
               {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[1]/div[2]/div[2]",
-                "xpathWithDetails": "id(\"accordion-oc787b-item_1690872940042\")/div[@class=\"ocr-accordion-item__body\"]/div[@class=\"media slide-in-bottom-2 img-fluid multi-feature-feature\"]"
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"Features\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"tabs-pill-bar tabs\"]/div[@class=\"cmp-tabs d-contents\"]/div[@class=\"pill-bar no-gutters\"]"
               }
             ],
             "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "columns",
+            "mapping": "defaultContent",
             "customBlockName": ""
           }
         ],
