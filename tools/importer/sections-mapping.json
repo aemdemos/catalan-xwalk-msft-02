@@ -47,161 +47,9 @@
             "color": "rgba(75, 0, 130, 0.4)",
             "mapping": "hero",
             "customBlockName": ""
-          },
-          {
-            "id": "box-id--1409472599",
-            "x": 0,
-            "y": 652,
-            "width": 2884,
-            "height": 56,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
-            "layout": {
-              "numCols": 0,
-              "numRows": 0
-            },
-            "color": "rgba(75, 0, 130, 0.3)",
-            "mapping": "defaultContent",
-            "customBlockName": ""
           }
         ],
         "settings": {}
-      },
-      {
-        "id": "2-2",
-        "blocks": [
-          {
-            "id": "box-id-580046717",
-            "x": 770,
-            "y": 804,
-            "width": 1344,
-            "height": 72,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]",
-            "layout": {
-              "numCols": 2,
-              "numRows": 1
-            },
-            "childrenXpaths": [
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-                "xpathWithDetails": "id(\"Features\")/div[@class=\"row\"]/div[@class=\"col\"]/div[@class=\"layout section-master__layout section-master--layout-cols-2\"]/div[@class=\"layout__col\"]"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
-                "xpathWithDetails": "id(\"Features\")/div[@class=\"row\"]/div[@class=\"col\"]/div[@class=\"layout section-master__layout section-master--layout-cols-2\"]/div[@class=\"layout__col\"]"
-              }
-            ],
-            "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "defaultContent",
-            "customBlockName": ""
-          },
-          {
-            "id": "box-id-832552540",
-            "x": 78,
-            "y": 924,
-            "width": 1320,
-            "height": 40,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
-            "layout": {
-              "numCols": 0,
-              "numRows": 0
-            },
-            "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "defaultContent",
-            "customBlockName": ""
-          },
-          {
-            "id": "box-id-832552571",
-            "x": 70,
-            "y": 964,
-            "width": 1336,
-            "height": 678,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
-            "layout": {
-              "numCols": 2,
-              "numRows": 1
-            },
-            "childrenXpaths": [
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
-                "xpathWithDetails": "id(\"accordion-container-accordion-oc787b\")"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[1]/div[2]/div[2]",
-                "xpathWithDetails": "id(\"accordion-oc787b-item_1690872940042\")/div[@class=\"ocr-accordion-item__body\"]/div[@class=\"media slide-in-bottom-2 img-fluid multi-feature-feature\"]"
-              }
-            ],
-            "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "columns",
-            "customBlockName": ""
-          }
-        ],
-        "settings": {
-          "section-metadata-style": "light-blue-gradient"
-        }
-      },
-      {
-        "id": "2-3",
-        "blocks": [
-          {
-            "id": "box-id--1737941923",
-            "x": 70,
-            "y": 1834,
-            "width": 1344,
-            "height": 80,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[1]",
-            "layout": {
-              "numCols": 0,
-              "numRows": 0
-            },
-            "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "defaultContent",
-            "customBlockName": ""
-          },
-          {
-            "id": "box-id--1737941892",
-            "x": 70,
-            "y": 1962,
-            "width": 1336,
-            "height": 542,
-            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]",
-            "layout": {
-              "numCols": 3,
-              "numRows": 2
-            },
-            "childrenXpaths": [
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
-                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]",
-                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]",
-                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]",
-                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[3]",
-                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
-              },
-              {
-                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[3]",
-                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
-              }
-            ],
-            "color": "rgba(75, 0, 130, 0.1)",
-            "mapping": "columns",
-            "customBlockName": ""
-          }
-        ],
-        "settings": {
-          "section-metadata-style": "blue-gradient"
-        }
       }
     ]
   },
@@ -214,9 +62,9 @@
         "blocks": [
           {
             "id": "box-id-512495792",
-            "x": 0,
+            "x": 497,
             "y": 7996,
-            "width": 1485,
+            "width": 1888,
             "height": 316,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]",
             "layout": {
@@ -255,9 +103,9 @@
           },
           {
             "id": "box-id-233592450",
-            "x": 0,
+            "x": 497,
             "y": 8312,
-            "width": 1485,
+            "width": 1888,
             "height": 90,
             "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/div[1]",
             "layout": {
